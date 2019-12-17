@@ -1,0 +1,5 @@
+Vivente, implementa metodo vive persone, cani, alberi
+Volante, implementa metodo vola aerei, uccelli, insetti
+Parcheggiabile, implementa metodo parcheggia auto,moto,bicicletta
+Prenotabile, implementa metodo prenota fermata dell'autobus, camera d'hotel,verde al semaforo
+Comprabile, implementa metodo compra biglietto metro, pizza, macchina

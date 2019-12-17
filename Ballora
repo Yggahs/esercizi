@@ -1,0 +1,5 @@
+class Ballora extends Allora{
+  public static void main(String[] args) {
+    super.close();
+  }
+}

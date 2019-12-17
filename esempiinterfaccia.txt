@@ -1,0 +1,7 @@
+esempi 5 interfacce su posto di lavoro:
+
+classe sedia interfaccia 'lanciabile'
+classe computer implementa metodo 'calcolare' e interfaccia 'ricaricabile'
+classe email implementa metodo 'inviare' e interfaccia 'stampabile'
+classe schermo implementa metodo 'accendere' e interfaccia 'regolabile'
+classe bicchiere implementa metodo 'riempibile' e interfaccia 'riciclabile'
